@@ -1,0 +1,141 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "userName": "Admin",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 7,
+        "employeeId": "muser",
+        "firstName": "manda",
+        "middleName": "akhil",
+        "lastName": "user",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 1,
+        "name": "Admin",
+        "displayName": "Admin"
+      }
+    },
+    {
+      "id": 58,
+      "userName": "Davidvo",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 3,
+        "employeeId": "000711",
+        "firstName": "Peter",
+        "middleName": "Mac",
+        "lastName": "Anderson",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 2,
+        "name": "ESS",
+        "displayName": "ESS"
+      }
+    },
+    {
+      "id": 54,
+      "userName": "FMLName",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 137,
+        "employeeId": "1234",
+        "firstName": "Qwerty",
+        "middleName": "Qwerty",
+        "lastName": "LName",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 2,
+        "name": "ESS",
+        "displayName": "ESS"
+      }
+    },
+    {
+      "id": 55,
+      "userName": "FMLName1",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 157,
+        "employeeId": "1235",
+        "firstName": "FName",
+        "middleName": "Mname",
+        "lastName": "LName",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 2,
+        "name": "ESS",
+        "displayName": "ESS"
+      }
+    },
+    {
+      "id": 56,
+      "userName": "Jobinsam@6742",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 165,
+        "employeeId": "0367010",
+        "firstName": "Jobin",
+        "middleName": "Mathew",
+        "lastName": "Sam",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 2,
+        "name": "ESS",
+        "displayName": "ESS"
+      }
+    },
+    {
+      "id": 59,
+      "userName": "Keerthana",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 7,
+        "employeeId": "muser",
+        "firstName": "manda",
+        "middleName": "akhil",
+        "lastName": "user",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 2,
+        "name": "ESS",
+        "displayName": "ESS"
+      }
+    },
+    {
+      "id": 57,
+      "userName": "Test1",
+      "deleted": false,
+      "status": true,
+      "employee": {
+        "empNumber": 1,
+        "employeeId": "0001",
+        "firstName": "Orange",
+        "middleName": "",
+        "lastName": "Test",
+        "terminationId": null
+      },
+      "userRole": {
+        "id": 1,
+        "name": "Admin",
+        "displayName": "Admin"
+      }
+    }
+  ],
+  "meta": {
+    "total": 7
+  },
+  "rels": []
+}
